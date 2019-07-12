@@ -1,5 +1,5 @@
-m=int(input())
+n=int(input())
 r=0
-for j in range(m+1):
+for j in range(n+1):
    r+=j
 print(r)
